@@ -1,0 +1,19 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+}
+
+p {
+color: grey;
+margin-left: 20px;
+font: Ariel;
+}
+
+strong {
+color: navy;
+margin-left: 20px;
+}
