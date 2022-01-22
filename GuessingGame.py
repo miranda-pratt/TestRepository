@@ -79,7 +79,7 @@ def main():
             # Display a message but don't decrement the lives_remaining variable
             else:
 
-                print ("Invalid input, please try again")
+                print("Invalid input, please try again")
 
         # When lives_remaining gets to 0, break the while loop and print game over message
         # Then recall main to start again
@@ -142,7 +142,7 @@ def print_lives_remaining(lives_remaining):
 
     if lives_remaining == 1:
 
-        print ("You have 1 life remaining")
+        print("You have 1 life remaining")
 
     else:
 
